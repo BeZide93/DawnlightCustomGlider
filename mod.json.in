@@ -1,5 +1,5 @@
 {
-  "id": "dev.bezide.dawnlight.glider-model",
+  "id": "dev.bezide.dawnlight_custom_model",
   "name": "Dawnlight Custom Glider",
   "version": "@PROJECT_VERSION@",
   "author": "BeZide",
