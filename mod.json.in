@@ -1,7 +1,7 @@
 {
-  "id": "com.example.my_mod",
-  "name": "My Mod",
+  "id": "dev.bezide.dawnlight.glider-model",
+  "name": "Dawnlight Custom Glider",
   "version": "@PROJECT_VERSION@",
-  "author": "You",
-  "description": "An example Dusklight mod"
+  "author": "BeZide",
+  "description": "Custom BMD glider for Dawnlight. Enable alongside Dawnlight and restart the game."
 }
