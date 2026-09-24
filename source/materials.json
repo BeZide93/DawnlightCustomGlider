@@ -1,0 +1,63 @@
+[
+  {
+    "Name": "__MatDefault",
+    "CullMode": "None",
+    "ChannelControls": [
+      {
+        "Enable": true,
+        "MaterialSrcColor": "Register",
+        "LitMask": 253,
+        "DiffuseFunction": "Clamp",
+        "AttenuationFunction": "None_2",
+        "AmbientSrcColor": "Register"
+      },
+      {
+        "Enable": false,
+        "MaterialSrcColor": "Register",
+        "LitMask": "None",
+        "DiffuseFunction": "Clamp",
+        "AttenuationFunction": "Spec",
+        "AmbientSrcColor": "Register"
+      },
+      null,
+      null
+    ],
+    "TevStages": [
+      {
+        "ColorInA": "Zero",
+        "ColorInB": "TexColor",
+        "ColorInC": "RasColor",
+        "ColorInD": "Zero",
+        "ColorOp": "Add",
+        "ColorBias": "Zero",
+        "ColorScale": "Scale_1",
+        "ColorClamp": true,
+        "ColorRegId": "TevPrev",
+        "AlphaInA": "TexAlpha",
+        "AlphaInB": "Zero",
+        "AlphaInC": "Zero",
+        "AlphaInD": "Zero",
+        "AlphaOp": "Add",
+        "AlphaBias": "Zero",
+        "AlphaScale": "Scale_1",
+        "AlphaClamp": true,
+        "AlphaRegId": "TevPrev"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "Name": "Canvas",
+    "Format": "RGB565",
+    "AlphaSetting": 0,
+    "WrapS": "ClampToEdge",
+    "WrapT": "ClampToEdge",
+    "MipMap": 1,
+    "MinFilter": "LinearMipmapLinear",
+    "MagFilter": "Linear",
+    "MinLOD": 0,
+    "MaxLOD": 6,
+    "LodBias": 0
+  },
+  {
+    "Name": "Wood",
+    "Format": "RGB565",
+    "AlphaSetting": 0,
+    "WrapS": "ClampToEdge",
+    "WrapT": "ClampToEdge",
+    "MipMap": 1,
+    "MinFilter": "LinearMipmapLinear",
+    "MagFilter": "Linear",
+    "MinLOD": 0,
+    "MaxLOD": 6,
+    "LodBias": 0
+  },
+  {
+    "Name": "Leather",
+    "Format": "RGB565",
+    "AlphaSetting": 0,
+    "WrapS": "ClampToEdge",
+    "WrapT": "ClampToEdge",
+    "MipMap": 1,
+    "MinFilter": "LinearMipmapLinear",
+    "MagFilter": "Linear",
+    "MinLOD": 0,
+    "MaxLOD": 6,
+    "LodBias": 0
+  }
+]
