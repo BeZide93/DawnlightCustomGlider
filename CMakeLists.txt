@@ -23,5 +23,5 @@ add_mod(Dawnlight_CustomGlider
         MOD_JSON "${CMAKE_CURRENT_BINARY_DIR}/mod.json"
         RES_DIR res            # mod resources, including icon.png and banner.png
         OVERLAY_DIR overlay    # game file overlays; remove if unused
-        TEXTURES_DIR textures  # texture replacements; remove if unused
+        TEXTURES_DIR textures  # bundled Glider acquisition icon replacement
 )
